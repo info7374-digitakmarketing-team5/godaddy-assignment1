@@ -1,0 +1,16 @@
+id,name,type,price,subscription_type
+1,biz,Domains,10.99,yearly
+2,com,Domains,19.99,yearly
+3,in,Domains,11.99,yearly
+4,gov,Domains,18.99,yearly
+5,mil,Domains,18.99,yearly
+6,org,Domains,14.99,yearly
+7,net,Domains,14.99,yearly
+8,info,Domains,10.59,yearly
+9,co,Domains,10.99,yearly
+10,New Website Builder,Websites,15.49,monthly
+11,Online Store,Websites,16.76,monthly
+12,Managed Wordpress,Websites,16.64,monthly
+13,SEO,Online Marketing,50.99,monthly
+14,Local Business Listing,Online Marketing,11.99,monthly
+15,Email Marketing,Online Marketing,69.99,monthly
